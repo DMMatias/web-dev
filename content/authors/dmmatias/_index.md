@@ -27,7 +27,7 @@ education:
   courses:
     - course: BSc in Biology (Molecular Biology and Genetics)
       institution: Faculty of Sciences, University of Lisbon
-      year: 2016
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
